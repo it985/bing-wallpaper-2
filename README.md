@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 30 2022 01:18:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-30Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg)
+<!--  Wed Jan 25 2023 00:27:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-25Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg)
   
 <!-- END -->
