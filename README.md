@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jan 25 2023 00:27:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-25Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg)
+<!--  Fri Jan 27 2023 00:30:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-27Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg)
   
 <!-- END -->
