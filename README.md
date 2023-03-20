@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 19 2023 00:32:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Gamboa Crater, Mars (© NASA/JPL-Caltech/University of Arizona)](https://cn.bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-19Gamboa Crater, Mars (© NASA/JPL-Caltech/University of Arizona)](https://cn.bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg)
+<!--  Mon Mar 20 2023 00:29:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Barn owl, England (© Ondrej Prosicky/Getty Images)](https://cn.bing.com/th?id=OHR.BarnOwlWinter_EN-US7295086574_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-20Barn owl, England (© Ondrej Prosicky/Getty Images)](https://cn.bing.com/th?id=OHR.BarnOwlWinter_EN-US7295086574_UHD.jpg)
   
 <!-- END -->
