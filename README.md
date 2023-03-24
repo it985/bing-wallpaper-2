@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 22 2023 00:25:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Colorful pastel chalk (© Stephen Shepherd/plainpicture)](https://cn.bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-22Colorful pastel chalk (© Stephen Shepherd/plainpicture)](https://cn.bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg)
+<!--  Fri Mar 24 2023 00:27:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)](https://cn.bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-24Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)](https://cn.bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg)
   
 <!-- END -->
