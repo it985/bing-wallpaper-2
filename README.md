@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 15 2023 00:30:16 GMT+0000 (Coordinated Universal Time) -->
-  ![US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-15US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg)
+<!--  Fri Jun 16 2023 00:31:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](https://cn.bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-16Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](https://cn.bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg)
   
 <!-- END -->
