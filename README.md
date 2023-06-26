@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 25 2023 00:37:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-25Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg)
+<!--  Mon Jun 26 2023 00:35:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-26Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg)
   
 <!-- END -->
