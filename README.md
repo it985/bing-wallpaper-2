@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 19 2023 00:50:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)](https://cn.bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-19Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)](https://cn.bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg)
+<!--  Thu Jul 20 2023 00:31:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-20Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CrescentLake_EN-US1005101872_UHD.jpg)
   
 <!-- END -->
