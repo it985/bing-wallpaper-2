@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 19 2023 00:25:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)](https://cn.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-19Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)](https://cn.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg)
+<!--  Wed Sep 20 2023 00:24:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-20Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg)
   
 <!-- END -->
