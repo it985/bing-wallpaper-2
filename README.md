@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 11 2023 00:25:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-11Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg)
+<!--  Sun Nov 12 2023 00:28:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)](https://cn.bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-12Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)](https://cn.bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg)
   
 <!-- END -->
