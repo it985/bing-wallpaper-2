@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Feb 24 2024 00:24:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-24Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg)
+<!--  Sun Feb 25 2024 00:28:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-25Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg)
   
 <!-- END -->
