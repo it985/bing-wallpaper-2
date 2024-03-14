@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 13 2024 00:25:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-13Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg)
+<!--  Thu Mar 14 2024 00:25:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-14Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg)
   
 <!-- END -->
