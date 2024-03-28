@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 27 2024 00:25:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-27Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg)
+<!--  Thu Mar 28 2024 00:26:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)](https://cn.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-28Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)](https://cn.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg)
   
 <!-- END -->
