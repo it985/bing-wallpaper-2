@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 28 2024 00:26:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)](https://cn.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-28Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)](https://cn.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg)
+<!--  Fri Mar 29 2024 00:26:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-29Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg)
   
 <!-- END -->
