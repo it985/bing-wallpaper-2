@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jul 19 2024 01:59:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Coral reef in the Indian Ocean, overseas department of Mayotte, France (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-19Coral reef in the Indian Ocean, overseas department of Mayotte, France (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteCoral_EN-US4102346691_UHD.jpg)
+<!--  Sat Jul 20 2024 00:29:28 GMT+0000 (Coordinated Universal Time) -->
+  ![A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)](https://cn.bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-20A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)](https://cn.bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg)
   
 <!-- END -->
