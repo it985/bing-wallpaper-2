@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Dec 21 2024 00:37:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-21Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg)
+<!--  Sun Dec 22 2024 00:39:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)](https://cn.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-22Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)](https://cn.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg)
   
 <!-- END -->
