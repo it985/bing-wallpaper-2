@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Dec 25 2024 00:38:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Christmas market scene in Germany (© Cyril Gosselin/Getty Images)](https://cn.bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-25Christmas market scene in Germany (© Cyril Gosselin/Getty Images)](https://cn.bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg)
+<!--  Thu Dec 26 2024 00:35:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-26Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg)
   
 <!-- END -->
