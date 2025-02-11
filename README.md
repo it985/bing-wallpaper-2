@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 10 2025 00:37:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-10Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg)
+<!--  Tue Feb 11 2025 00:35:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-11Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg)
   
 <!-- END -->
