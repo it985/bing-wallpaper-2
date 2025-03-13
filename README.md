@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 12 2025 00:37:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)](https://cn.bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-12Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)](https://cn.bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg)
+<!--  Thu Mar 13 2025 00:37:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)](https://cn.bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-13Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)](https://cn.bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg)
   
 <!-- END -->
